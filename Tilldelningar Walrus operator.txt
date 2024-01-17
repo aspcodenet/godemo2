@@ -1,0 +1,25 @@
+Studenranderepresentant = Marcus Bauman
+
+Tilldelningar Walrus operator
+
+printf %s
+
+- PACKAGE definiera "folder"
+    - innehålla många go-filer
+       - alla go-filer i samma  folder här till samma package
+Moduler
+
+Loopar
+
+Ifs
+    - if 
+    - switch
+Funktioner
+
+Jag sticker kl 18:30
+Från 18:30 -> Videon för nästa vecka
+
+
+
+
+
